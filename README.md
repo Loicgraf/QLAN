@@ -4,6 +4,8 @@ Auteurs : GRAF Loïc / UHLEN Nathanaël / PHILIP Quentin / KRAEMER Axel
 
 Date : 2 Février 2024 -> 10 Juin 2024
 
+Lieu : Université de Haute-Alsace
+
 //--------------------------------------------------------------------------//
 
 Projet de Fin d'Études - Dispositif d'Alarmes pour Travailleur Isolé (DATI)
@@ -24,3 +26,11 @@ Utilisation des Codes
 Les codes fournis sont gratuits et ouverts à toute utilisation. Nous encourageons leur utilisation à des fins éducatives, 
 de recherche ou de développement de projets similaires. 
 Cependant, il est important de noter que nous déclinons toute responsabilité en cas de dommages sur vos composants résultant de l'utilisation de ces codes.
+
+Relerciement 
+
+On remercie l'encadrement de l'Université de Haute-Alsace, ainsi que le suivi de nos professeurs :
+HERMANN Gilles
+URBAN Jean-Philippe
+BIROUCHE Abdezarik
+KIHL Hubert
