@@ -1,3 +1,8 @@
+//---------------------------------------------------------------------------//
+Auteurs : GRAF Loïc / UHLEN Nathanaël / PHILIP Quentin / KRAEMER Axel
+Date : 2 Février 2024 -> 10 Juin 2024
+//--------------------------------------------------------------------------//
+
 Projet de Fin d'Études - Dispositif d'Alarmes pour Travailleur Isolé (DATI)
 
 Groupé de 4 personne, ce projet constitue le travail de fin d'études dans le cadre de licence EEA. L'objectif principal est de concevoir un dispositif d'alarme pour travailleur isolé (DATI) afin de garantir la sécurité des travailleurs dans des environnements où ils opèrent seuls.
