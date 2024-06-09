@@ -27,7 +27,7 @@ Les codes fournis sont gratuits et ouverts à toute utilisation. Nous encourageo
 de recherche ou de développement de projets similaires. 
 Cependant, il est important de noter que nous déclinons toute responsabilité en cas de dommages sur vos composants résultant de l'utilisation de ces codes.
 
-Relerciement 
+Remerciement 
 
 On remercie l'encadrement de l'Université de Haute-Alsace, ainsi que le suivi de nos professeurs :
 
