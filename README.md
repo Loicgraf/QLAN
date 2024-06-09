@@ -30,6 +30,7 @@ Cependant, il est important de noter que nous déclinons toute responsabilité e
 Relerciement 
 
 On remercie l'encadrement de l'Université de Haute-Alsace, ainsi que le suivi de nos professeurs :
+
 HERMANN Gilles
 URBAN Jean-Philippe
 BIROUCHE Abdezarik
