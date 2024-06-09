@@ -31,7 +31,7 @@ Remerciement
 
 On remercie l'encadrement de l'Université de Haute-Alsace, ainsi que le suivi de nos professeurs :
 
-HERMANN Gilles
-BIROUCHE Abdezarik
-URBAN Jean-Philippe
+HERMANN Gilles - 
+BIROUCHE Abdezarik - 
+URBAN Jean-Philippe - 
 KIHL Hubert
