@@ -1,6 +1,6 @@
 Projet de Fin d'Études - Dispositif d'Alarmes pour Travailleur Isolé (DATI)
 
-Ce projet constitue le travail de fin d'études dans le cadre des licences EEA. L'objectif principal est de concevoir un dispositif d'alarme pour travailleur isolé (DATI) afin de garantir la sécurité des travailleurs dans des environnements où ils opèrent seuls.
+Groupé de 4 personne, ce projet constitue le travail de fin d'études dans le cadre de licence EEA. L'objectif principal est de concevoir un dispositif d'alarme pour travailleur isolé (DATI) afin de garantir la sécurité des travailleurs dans des environnements où ils opèrent seuls.
 
 Contenu du Projet
 
