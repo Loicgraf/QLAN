@@ -1,6 +1,6 @@
 //---------------------------------------------------------------------------//
 
-Auteurs : GRAF Loïc / UHLEN Nathanael / PHILIP Quentin / KRAEMER Axel
+Auteurs : GRAF Loïc / UHLEN Nathanael / PHILIP Quentin / KRAMER Axel
 
 Date : 2 Février 2024 -> 10 Juin 2024
 
